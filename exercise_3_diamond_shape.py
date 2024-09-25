@@ -1,3 +1,4 @@
+# Exercise 3: Diamond Shape
 # Creating Function of the Diamond Shape
 def print_diamond(n):
     # Condition for the Odd Integer
