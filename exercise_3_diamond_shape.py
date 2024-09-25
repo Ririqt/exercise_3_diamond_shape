@@ -7,4 +7,5 @@ def print_diamond(n):
 
     for i in range(n // 2 - 1, -1, -1):
         print(" " * (n // 2 - i) + "*" * (2 * i + 1))
-     
+
+print_diamond(5)     
